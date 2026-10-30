@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **WEB DEVLOPMENT**
 
-- 💬 Ask me about **FLUTTER,HTML,CSS,JAVA**
+- 💬 Ask me about **FLUTTER,HTML,CSS,JAVASCRIPT,REACT,JAVA,SQL**
 
 - 📫 How to reach me **jaysoni24122006@gmail.com**
 
