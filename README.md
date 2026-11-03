@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **WEB DEVLOPMENT**
 
-- 💬 Ask me about **FLUTTER,HTML,CSS,JAVASCRIPT,REACT,JAVA,SQL**
+- 💬 Ask me about **FLUTTER,HTML,CSS,JAVASCRIPT,REACT,JAVA,SQL,mongodb**
 
 - 📫 How to reach me **jaysoni24122006@gmail.com**
 
