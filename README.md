@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soni Jay</h1>
+<h1 align="center">Hello 👋, I'm Soni Jay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.softwebsolutions.com/wp-content/uploads/2020/10/flutter-app-developer.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-soni-9639&label=Profile%20views&color=0e75b6&style=flat" alt="jay-soni-9639" /> </p>
